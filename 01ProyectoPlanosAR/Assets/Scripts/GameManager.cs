@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    public event Action OnManiMenu;
+    public event Action OnMainMenu;
     public event Action OnItemsMenu;
     public event Action OnARPosition;
 
@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        if (Instance!=null && Instance != this)
+        if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
         }
@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
 
     public void MainMenu()
     {
-        OnManiMenu?.Invoke();
+        OnMainMenu?.Invoke();
         Debug.Log("Main Menu Activated");
     }
 
