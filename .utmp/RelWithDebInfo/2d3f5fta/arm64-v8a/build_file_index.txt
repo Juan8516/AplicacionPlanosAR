@@ -1,0 +1,2 @@
+C:\.1Proyectos\04.RealidadAumentada\AplicacionPlanosAR\AplicacionPlanosAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\.1Proyectos\04.RealidadAumentada\AplicacionPlanosAR\AplicacionPlanosAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
