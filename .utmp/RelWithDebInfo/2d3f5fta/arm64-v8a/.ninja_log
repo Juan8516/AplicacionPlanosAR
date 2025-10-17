@@ -1,10 +1,19 @@
 # ninja log v5
 52	4329	7822607906515451	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d359f472fa11d3e1
 66	4410	7822607907598936	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	39bd9f14e996d278
-1	4445	7822607907930298	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2eee4ba4ebf15db8
-109	4550	7822607908818661	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	505a04dd45678270
-36	4838	7822607911843081	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	87ca096bb33d5a4d
 129	5347	7822607916997128	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1a0da08476b7c2da
+1	4445	7822607907930298	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2eee4ba4ebf15db8
+5599	5896	7822607922710373	C:/.1Proyectos/04.RealidadAumentada/AplicacionPlanosAR/AplicacionPlanosAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3f5fta/obj/arm64-v8a/libgame.so	a433cf4457bb25cb
+36	4838	7822607911843081	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	87ca096bb33d5a4d
+109	4550	7822607908818661	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	505a04dd45678270
 87	5352	7822607917007287	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12faf998ed50981c
 20	5599	7822607919574080	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5830e865abf7a1db
-5599	5896	7822607922710373	C:/.1Proyectos/04.RealidadAumentada/AplicacionPlanosAR/AplicacionPlanosAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3f5fta/obj/arm64-v8a/libgame.so	a433cf4457bb25cb
+98	4497	7822659114380265	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	39bd9f14e996d278
+74	4526	7822659114360251	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d359f472fa11d3e1
+55	4608	7822659115323898	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2eee4ba4ebf15db8
+147	4612	7822659115339113	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	505a04dd45678270
+22	4779	7822659117164317	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	87ca096bb33d5a4d
+165	5188	7822659121276554	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1a0da08476b7c2da
+124	5261	7822659121987905	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12faf998ed50981c
+42	5543	7822659124620530	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5830e865abf7a1db
+5543	6056	7822659129908631	C:/.1Proyectos/04.RealidadAumentada/AplicacionPlanosAR/AplicacionPlanosAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3f5fta/obj/arm64-v8a/libgame.so	a433cf4457bb25cb
